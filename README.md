@@ -5,8 +5,8 @@ This application allows users to guess the number!
 
 ## Application Features
 1) To run the game in terminal type: python game.py 
-2) Guess a number between 1 - 100
-3) If you get it wrong, then you will get a hint
+2) Guess a number between 1 - 100 
+3) If you get it wrong, then you will get a hint 
 
 ## Technologies
 Python, Terminal
