@@ -6,7 +6,7 @@ guess = input("Guess a number between 1-100")
 seed(1)
 
 # Generate the Random Number
-for _ in range(1):
+for _ in range(1, 101):
 	randomNumber = randint(1, 100)
 	print(randomNumber)
 
