@@ -14,8 +14,8 @@ for _ in range(1):
 if guess > randomNumber:
     print("Hint: Guess a Lower Number")
 
-if guess < randomNumber:
+elif guess < randomNumber:
     print("Hint: Guess a Higher Number")
 
-if guess = randomNumber:
+elif guess == randomNumber:
     print("Correct!")
