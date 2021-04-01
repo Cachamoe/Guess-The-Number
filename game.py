@@ -6,9 +6,8 @@ guess = input("Guess a number between 1-100")
 seed(1)
 
 # Generate the Random Number
-for _ in range(1, 101):
+for _ in range(1):
 	randomNumber = randint(1, 100)
-	print(randomNumber)
 
 # Compare User Guesses with Generated Number
 if guess > randomNumber:
