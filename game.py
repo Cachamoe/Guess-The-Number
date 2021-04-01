@@ -1,6 +1,6 @@
 from random import seed
 from random import randint
-guess = input("Guess a number between 1-100")
+guess = input("Guess a number between 1-100 ")
 
 # Seed Random Number Generator
 seed(1)
